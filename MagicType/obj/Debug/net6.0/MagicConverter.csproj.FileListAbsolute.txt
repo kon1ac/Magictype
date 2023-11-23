@@ -1,0 +1,17 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.AssemblyInfoInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.AssemblyInfo.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\bin\Debug\net6.0\MagicConverter.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\bin\Debug\net6.0\MagicConverter.deps.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\bin\Debug\net6.0\MagicConverter.runtimeconfig.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\bin\Debug\net6.0\MagicConverter.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\bin\Debug\net6.0\MagicConverter.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.csproj.AssemblyReference.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.csproj.CopyComplete
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\refint\MagicConverter.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\MagicConverter.genruntimeconfig.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\MagicConverter\MagicConverter\obj\Debug\net6.0\ref\MagicConverter.dll
